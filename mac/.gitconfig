@@ -1,0 +1,14 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[push]
+	autoSetupRemote = true
+[commit]
+	gpgsign = true
+[core]
+	editor = nvim
+[pull]
+	rebase = true
