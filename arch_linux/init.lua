@@ -1,3 +1,5 @@
+-- Modified version of https://github.com/LazyVim/LazyVim
+
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
