@@ -1,4 +1,4 @@
--- Modified version of https://github.com/LazyVim/LazyVim
+-- Modified version of https://github.com/nvim-lua/kickstart.nvim
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
