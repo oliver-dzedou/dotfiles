@@ -3,6 +3,9 @@ File browser: yazi
 Editor: neovim
 Terminal emulator: alacritty
 Shell: zsh (+zsh-autosuggestions, zsh-syntax-highlighting)
+Find: fd
+Grep: ripgrep
+Print: bat
 Browser: Firefox
 Clipboard manager: Maccy
 Notes: Obsidian
