@@ -4,6 +4,9 @@ Wallpaper: wpaperd
 Screenshots: hyprshot
 Lock screen: hyprlock
 System information: htop, neofetch
+Find: fd
+Grep: ripgrep
+Print: bat
 Network: NetworkManager
 Bluetooth: bluez
 File browser: yazi
@@ -13,8 +16,8 @@ Shell: zsh (+zsh-autosuggestions, zsh-syntax-highlighting)
 Browser: Firefox
 Notes: Obsidian
 Version control: git, gh cli
-Task management: Todoist (browser)
-Diagrams: draw.io (browser)
-AI: ChatGPT (browser)
-Password manager: Bitwarden (browser)
-Music: Spotify (browser)
+Task management: Todoist 
+Diagrams: draw.io
+Password manager: Bitwarden 
+Music: Spotify
+
