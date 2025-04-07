@@ -5,6 +5,7 @@ Terminal emulator: alacritty
 Shell: zsh (+zsh-autosuggestions, zsh-syntax-highlighting)
 Find: fd
 Grep: ripgrep
+Diff: delta
 Print: bat
 Browser: Firefox
 Clipboard manager: Maccy
