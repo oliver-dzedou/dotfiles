@@ -6,6 +6,7 @@ Lock screen: hyprlock
 System information: htop, neofetch
 Find: fd
 Grep: ripgrep
+Diff: delta
 Print: bat
 Network: NetworkManager
 Bluetooth: bluez
