@@ -20,6 +20,7 @@ alias gch="git reset --soft master"
 alias gi="git update-index --skip-worktree $1"
 alias gir="git update-index --no-skip-worktree $1"
 alias gundo="git reset --soft 'HEAD^'"
+alias gbb="git branch | bat"
 function gcom () git add . && git commit -m $1 && git push
 function grebase () git rebase -i HEAD~$1
 parse_git_branch() {  
@@ -64,7 +65,7 @@ alias python="python3"
 # Misc
 alias rc="nvim ~/.zshrc"
 alias rrc="source ~/.zshrc"
-alias ls="ls -FGha"
+alias ls="ls -FGha | bat"
 
 # Shell cursor movement
 bindkey ";9C" forward-word
