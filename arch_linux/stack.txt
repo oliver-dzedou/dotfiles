@@ -20,5 +20,4 @@ Version control: git, gh cli
 Task management: Todoist 
 Diagrams: draw.io
 Password manager: Bitwarden 
-Music: Spotify
 

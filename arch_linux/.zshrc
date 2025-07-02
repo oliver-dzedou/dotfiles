@@ -72,8 +72,16 @@ alias ls="ls -FGha | bat"
 bindkey ";9C" forward-word
 bindkey ";9D" backward-word
 
+## Linux only
 # Autosuggestions
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Syntax highlighting
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+## Mac only
+# Autosuggestions
+# source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+# Syntax highlighting
+# source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
