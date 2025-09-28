@@ -21,4 +21,4 @@ Task management: Todoist
 Diagrams: draw.io
 Password manager: Bitwarden 
 Line counter: tokei
-
+Git log: serie
